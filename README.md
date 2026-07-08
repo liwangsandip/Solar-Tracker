@@ -2,6 +2,12 @@
 
 **SolarTrack** — An autonomous light-tracking system that uses two light sensors to detect the brightest direction and automatically rotates a servo motor to align with it, without any manual input — conceptually mirroring how solar tracking systems orient panels toward the sun.
 
+## Demo
+📹 [Watch the working system in action](./demo.mp4)
+
+## Circuit Diagram
+![Circuit Diagram](solar_track.png)
+
 ---
 
 ## 1. Objective
